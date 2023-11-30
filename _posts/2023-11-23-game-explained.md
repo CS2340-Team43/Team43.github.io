@@ -14,3 +14,4 @@ There are 2 basic types of enemies, a Sprite and a Heavy enemy. The Sprite is pr
 If a player is able to make it through all three game screens while avoiding death their name will be added to the leaderboard and their score displayed.
 This game will launch on the Playstore soon and is expected to be the highest grossing game of all time.
 Below is an example of the game running: 
+![Game Running](sample.mp4)
