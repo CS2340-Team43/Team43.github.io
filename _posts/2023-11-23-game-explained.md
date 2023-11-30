@@ -13,5 +13,5 @@ The game designed by Team 43 looks like your average dungeon scroller game but t
 There are 2 basic types of enemies, a Sprite and a Heavy enemy. The Sprite is present in the first and last game screens and does minimal damage to the player. There are three different types of Heavy enemies that do much more damage to the player than the Sprite. Each enemy was uniquely designed to exemplify a base fear of the human race and they appear eerie to look at.
 If a player is able to make it through all three game screens while avoiding death their name will be added to the leaderboard and their score displayed.
 This game will launch on the Playstore soon and is expected to be the highest grossing game of all time.
-Below is an example of the game running: (test)
+Below is an example of the game running: testing
 ![Game Running](sample.mp4)
