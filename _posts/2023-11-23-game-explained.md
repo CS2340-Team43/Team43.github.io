@@ -16,5 +16,5 @@ This game will launch on the Playstore soon and is expected to be the highest gr
 Below is an example of the game running: testing
 
 <video width="320" height="240" controls>
-  <source src="/Team43.github.io/assets/img/sample.mp4" type="mp4">
+  <source src="/Team43.github.io/assets/img/sample.mp4" type="video/mp4">
 </video>
