@@ -15,6 +15,6 @@ If a player is able to make it through all three game screens while avoiding dea
 This game will launch on the Playstore soon and is expected to be the highest grossing game of all time.
 Below is an example of the game running: testing
 
-<video width="320" height="240" controls>
+<video width="420" height="840" controls>
   <source src="/Team43.github.io/assets/img/sample.mp4" type="video/mp4">
 </video>
